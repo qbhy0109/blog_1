@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d122c6b7-6ff9-42ab-b05e-bb231ca0c962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uQncTVt1EuHPIqDMvZ2v5NMobu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="E:/BOX/django_blog_tutorial-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d122c6b7-6ff9-42ab-b05e-bb231ca0c962" name="Default Changelist" comment="" />
+      <created>1624606759888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624606759888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="5" key="#Notifications" timestamp="1624610508757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="308" y="5" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1624610508757" />
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624863042613">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1624863042613" />
+    <state x="461" y="152" key="FileChooserDialogImpl" timestamp="1624954026690">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="461" y="152" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1624954026690" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1624687551219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1624687551219" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1624681104083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1624681104083" />
+    <state x="317" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1624947236112">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="317" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1624947236112" />
+  </component>
+</project>
