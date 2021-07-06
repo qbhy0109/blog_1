@@ -14,7 +14,7 @@ import markdown
 
 
 # 列表通用视图
-class ArticleListView(ListView):
+# class ArticleListView(ListView):
 
 
 
